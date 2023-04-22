@@ -1048,3 +1048,23 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+#toggle-btn {
+  background-color: #fff;
+  border: none;
+  color: #000;
+  padding: 10px;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+.light-mode {
+  background-color: #fff;
+  color: #000;
+}
